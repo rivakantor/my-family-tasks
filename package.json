@@ -5,7 +5,7 @@
   "devDependencies": {
     "flux": "^2.1.1",
     "keymirror": "^0.1.1",
-    "react-scripts": "0.9.0"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "@material-ui/core": "^4.7.0",
